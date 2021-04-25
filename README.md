@@ -70,4 +70,18 @@ Incomplete variables were also present.
 
 
 
+## SUMMARY 
+
+- Key Variables: 
+  - chromosome_interac (our engineered variable)
+  - Intracellular transport (binary variable)
+- The model pathway : **RandomForest -> SVM Gaussian -> SVM linear -> XGBoost**
+- Our best performing models were XGBoost and SVM Linear kernel. 
+- From XGBoost, we learned that regularization is key to combat overfitting
+- **Final Result: 61% accuracy**
+- Model could be **underfit for the data**
+
+### POSSIBLE TECHNIQUES THAT CAN IMPROVE THE ACCURACY
+- **Hyperparameter Tuning** 
+- **Stacking models**
 
