@@ -1,0 +1,16 @@
+Class,Label
+nucleus,0
+cytoplasm,1
+mitochondria,2
+cytoskeleton,3
+plasma membrane,4
+ER,5
+golgi,6
+vacuole,7
+transport vesicles,8
+peroxisome,9
+endosome,10
+integral membrane,11
+extracellular,12
+lipid particles,13
+cell wall,14
