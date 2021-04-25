@@ -6,6 +6,8 @@ The goal was to predict the class of ~380 observations (proteins) in the test fi
 
 ### INCOMPLETE RECORDS
 
+<img width="390" alt="Screen Shot 2021-04-25 at 5 16 07 PM" src="https://user-images.githubusercontent.com/43936803/115996967-0d5c1180-a5ea-11eb-874a-b73ac09ef41c.png">
+
 We found incomplete records for training and testing data.
 
 **Training data -> 5.21%**
