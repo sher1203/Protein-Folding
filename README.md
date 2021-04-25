@@ -23,8 +23,10 @@ Incomplete variables were also present.
 
 - Dummy Variables  (Performance: **High**)
   -Converted Chromosome, Essential, and Interaction Type into Binary Variable columns
--Average Interaction Strength (Performance: **High**)
-  -Average of all interaction strengths for each protein
--Dominant Interaction Type (Performance: **Low**)
-  -Most popular interaction type for each protein
+
+- Average Interaction Strength (Performance: **High**)
+  - Average of all interaction strengths for each protein
+
+- Dominant Interaction Type (Performance: **Low**)
+  - Most popular interaction type for each protein
 
