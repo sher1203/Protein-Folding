@@ -30,14 +30,14 @@ Incomplete variables were also present.
 - Dominant Interaction Type (Performance: **Low**)
   - Most popular interaction type for each protein
 
-## Model Proposal
+## MODEL PROPOSAL
 - Random Forest
 - Support Vector Machine
 - XGBoost
 
-### Random Forest
+### RANDOM FOREST
 
-- Random Forest tends not to **overfit the data**
+- Random Forest tends **not to overfit the data**
 - Tuning parameters is simple and fast.
 - Convenient for feature selection
 - Moderate validation accuracy: **64% overall**
@@ -45,4 +45,27 @@ Incomplete variables were also present.
 
 <img width="635" alt="Screen Shot 2021-04-25 at 5 06 59 PM" src="https://user-images.githubusercontent.com/43936803/115996698-0bde1980-a5e9-11eb-8d63-d1148cc00334.png">
 
-### 
+### SUPPORT VECTOR MACHINE
+
+#### GAUSSIAN KERNEL
+- High validation accuracy: **88% overall**
+- **Overfits the training data**: the model explained random noises in the training data
+- Poor prediction result on Kaggle
+
+#### LINEAR KERNEL
+- Moderate validation accuracy: **83% overall**
+- Moderately fast tuning by grid searching
+- Low accuracy in less dominant labels
+
+
+### XGBOOST
+
+- Xgboost is a more efficient implementation of Gradient Boosting
+- Xgboost multiclass model: **soft-max**
+- Evaluation metric: **mlogloss**
+- Encode categorical variables to multiple binary variables
+- High validation accuracy: **84%**
+
+
+
+
