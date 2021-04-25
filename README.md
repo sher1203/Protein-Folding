@@ -43,4 +43,6 @@ Incomplete variables were also present.
 - Moderate validation accuracy: **64% overall**
 - Difficult to interpret the model and re-engineer the model/data
 
+<img width="635" alt="Screen Shot 2021-04-25 at 5 06 59 PM" src="https://user-images.githubusercontent.com/43936803/115996698-0bde1980-a5e9-11eb-8d63-d1148cc00334.png">
+
 ### 
