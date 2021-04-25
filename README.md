@@ -1,10 +1,20 @@
 # PROTEIN PREDICTION
 
-##### Table of Contents  
-[Data Preprocessing](#data-preprocessing)  
-[Emphasis](#emphasis)  
-...snip...    
+## Table of Contents  
+[Data Preprocessing](#data-preprocessing)      
 <a name="data-preprocessing"/>
+
+[Data Preprocessing](#data-preprocessing)      
+<a name="data-preprocessing"/>
+
+[Model Proposal](#model-proposal)      
+<a name="model-proposal"/>
+
+[Summary](#summary)      
+<a name="summary"/>
+
+[Possible techniques that can improve the accuracy](#possible-techniques-that-can-improve-the-accuracy)      
+<a name="possible-techniques-that-can-improve-the-accurac"/>
 
 
 
@@ -89,7 +99,7 @@ Incomplete variables were also present.
 - **Final Result: 61% accuracy**
 - Model could be **underfit for the data**
 
-### POSSIBLE TECHNIQUES THAT CAN IMPROVE THE ACCURACY
+## POSSIBLE TECHNIQUES THAT CAN IMPROVE THE ACCURACY
 - **Hyperparameter Tuning** 
 - **Stacking models**
 
