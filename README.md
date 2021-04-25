@@ -1,11 +1,9 @@
 # PROTEIN PREDICTION
 
 ## Table of Contents  
-[Data Preprocessing](#data-preprocessing)      
+- [Data Preprocessing](#data-preprocessing)      
 <a name="data-preprocessing"/>
 
-[Data Preprocessing](#data-preprocessing)      
-<a name="data-preprocessing"/>
 
 [Model Proposal](#model-proposal)      
 <a name="model-proposal"/>
