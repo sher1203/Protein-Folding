@@ -5,13 +5,13 @@
 <a name="data-preprocessing"/>
 
 
-[Model Proposal](#model-proposal)      
+- [Model Proposal](#model-proposal)      
 <a name="model-proposal"/>
 
-[Summary](#summary)      
+- [Summary](#summary)      
 <a name="summary"/>
 
-[Possible techniques that can improve the accuracy](#possible-techniques-that-can-improve-the-accuracy)      
+- [Possible techniques that can improve the accuracy](#possible-techniques-that-can-improve-the-accuracy)      
 <a name="possible-techniques-that-can-improve-the-accurac"/>
 
 
