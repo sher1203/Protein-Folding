@@ -30,3 +30,17 @@ Incomplete variables were also present.
 - Dominant Interaction Type (Performance: **Low**)
   - Most popular interaction type for each protein
 
+## Model Proposal
+- Random Forest
+- Support Vector Machine
+- XGBoost
+
+### Random Forest
+
+- Random Forest tends not to **overfit the data**
+- Tuning parameters is simple and fast.
+- Convenient for feature selection
+- Moderate validation accuracy: **64% overall**
+- Difficult to interpret the model and re-engineer the model/data
+
+### 
