@@ -1,7 +1,7 @@
 # PROTEIN PREDICTION
 
 ##### Table of Contents  
-[Headers](#data-preprocessing)  
+[Data Preprocessing](#data-preprocessing)  
 [Emphasis](#emphasis)  
 ...snip...    
 <a name="data-preprocessing"/>
