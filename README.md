@@ -12,7 +12,7 @@
 <a name="summary"/>
 
 - [Possible techniques that can improve the accuracy](#possible-techniques-that-can-improve-the-accuracy)      
-<a name="possible-techniques-that-can-improve-the-accurac"/>
+<a name="possible-techniques-that-can-improve-the-accuracy"/>
 
 
 ---------------------------------------------------------------------------------------------------------------
